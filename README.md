@@ -22,6 +22,7 @@ To get started with these formatting scripts, you'll first need to clone this re
 
 ```bash
 git clone https://github.com/amirzubi/python-file-formatting.git
+```
 
 Ensure you have Python installed on your system. These scripts are tested with Python 3.8 and above.
 
@@ -50,4 +51,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 ## Contact
 
 If you have any questions or suggestions, please feel free to contact us at [hello@pazu.ch](mailto:hello@pazu.ch).
+
+```
+
 ```
