@@ -51,7 +51,3 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 ## Contact
 
 If you have any questions or suggestions, please feel free to contact us at [hello@pazu.ch](mailto:hello@pazu.ch).
-
-```
-
-```
